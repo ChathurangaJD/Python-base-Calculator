@@ -22,6 +22,7 @@ C (Clear input)
 * Python 3.x
 * tkinter (included with Python)
 
-![Uploading <img width="782" alt="Screenshot 2025-02-10 190947" src="https://github.com/user-attachments/assets/9c4c66f1-2bbb-4c24-a191-fea8f3ec7c51" />
-Screenshot 2025-02-10 191016.png…]()
 <img width="782" alt="Screenshot 2025-02-10 190947" src="https://github.com/user-attachments/assets/d799b4e2-2e77-49c2-868d-77f742175292" />
+
+<img width="725" alt="Screenshot 2025-02-10 191016" src="https://github.com/user-attachments/assets/68c40ec8-f46f-4ece-8bca-ba74b9faffe4" />
+
