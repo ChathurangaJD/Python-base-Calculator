@@ -1,5 +1,3 @@
-<img width="725" alt="Screenshot 2025-02-10 191016" src="https://github.com/user-attachments/assets/caed510c-a076-47d3-b2a8-5dae556ef665" /># Python-base-Calculator
-Python Base claculator
 # Tkinter calculator
 A simple GUI-based calculator built using Python's tkinter library. This calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division, along with percentage calculations and sign inversion.
 # Features
